@@ -1,0 +1,7 @@
+{
+	"@metadata": {
+		"authors": []
+	},
+	"atntgd-desc": "{{desc|name=AccessTNTGameData|url=https://github.com/... }}",
+	"atntgd-i18n-welcome": "Used to greet the user when reading the i18n/??.json file."
+}

@@ -1,0 +1,7 @@
+{
+	"@metadata": {
+		"authors": []
+	},
+	"atntgd-desc": "Adds parser functions to query information from TNT game files.",
+	"atntgd-i18n-welcome": "Welcome to the localization file of the AccessTNTGameData extension."
+}
